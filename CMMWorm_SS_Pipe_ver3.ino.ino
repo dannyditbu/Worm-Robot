@@ -1,4 +1,5 @@
 // Written by Akhil Kandhari, 8/28/2017
+// Changes by Anh
 // Code for ICRA paper, using robot to sense its surroundings with Radar, Pressure Sensors and Stretch Sensors to locomote in given terrain.
 // Code uses MUX shield and 12 dynamixel actuators.
 
